@@ -1,2 +1,3 @@
-# open-devops-toolkit-a0gj
+# Open Devops Toolkit A0Gj
+
 A repository to test GitHub automation for issue management.
